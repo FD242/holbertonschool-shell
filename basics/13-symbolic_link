@@ -1,0 +1,2 @@
+#!/bin/bush
+13 ln -s /bin/ls __ls__
